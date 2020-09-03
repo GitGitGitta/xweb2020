@@ -70,13 +70,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-![ScreenShot](/images/home.png)
-![ScreenShot](/images/cuatro.png)
-![ScreenShot](/images/tres.png)
-![ScreenShot](/images/cinco.png)
-![ScreenShot](/images/tres.png)
+![ScreenShot](basiswebsite/images/home.png)
+![ScreenShot](basiswebsite/images/cuatro.png)
+![ScreenShot](basiswebsite/images/tres.png)
+![ScreenShot](basiswebsite/images/cinco.png)
+![ScreenShot](basiswebsite/images/tres.png)
 
 
 **Breakdown-schets(en):**
 
-![ScreenShot](images/uitgewerkt-img-1.png)
+![ScreenShot](basiswebsite/images/uitgewerkt-img-1.png)
